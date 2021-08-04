@@ -17,7 +17,7 @@ Pin 6 -> GND
 	alt="ESP8266 Pinout"
     style="width:800px;height:px;" />
 
-$~$
+
 
 ## ARM JTAG
 
@@ -31,7 +31,7 @@ Pin 4 -> SWCLK
 Pin 5 -> SWO
 Pin 6 -> GND
 ```
-$~$
+
 
 ## AVR (USBASP maybe)
 
@@ -43,7 +43,7 @@ Pin 4 -> MOSI
 Pin 5 -> RST
 Pin 6 -> GND
 ```
-$~$
+
 
 ## Arduino FTDI
 
